@@ -2,6 +2,8 @@
 My analysis scripts for pi0 analysis. 
 Includes:
 
+Monte Carlo Simulation (GEant4) scripts using cmake
+
 Smearing scripts (based on M. Dlamini, M. Defurne)
 
 Cross section extraction scripts (kind of based on M. Dlamini)
